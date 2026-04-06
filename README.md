@@ -1,6 +1,5 @@
-# cafeiq
+A new Flutter project to turn the developers's capstone project into a mobile app.
 
-A new Flutter project.
 
 ## Getting Started
 
